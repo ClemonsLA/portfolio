@@ -25,7 +25,7 @@ export default function PPSPage(){
   
     <motion.div className="box-border w-full grow flex myGreyShadeNoOp mt-2">
         <motion.div className="bg-transparent p-2 text-[rgba(26,26,26,1)] italic indent-1 text-lg font-semibold">
-             Preferred Program Solutions was my first civilian job outside of the Air Force. The job was classified as Sys Admin, however that "classification" only really applied when were in the field. When we were at home, the two main duties were Cyber Security, and driving HMMWVs.
+             Preferred Program Solutions was my first civilian job outside of the Air Force. The job was classified as Sys Admin, however that "classification" only really applied when were in the field. When we were at home, my main duty was cyber security.
         </motion.div>
     </motion.div>
     <motion.div className="box-border myBlackShade flex w-full grow">
